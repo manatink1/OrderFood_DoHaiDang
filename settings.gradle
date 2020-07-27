@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "A40_Day05_FoodOrder"

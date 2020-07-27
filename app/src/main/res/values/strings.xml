@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A40_Day05_FoodOrder</string>
+    <string name="Name">Food order</string>
+    <string name="Name2">Welcome KhoaiHA</string>
+    <string name="Order">Order</string>
+    <string name="Price">Total Price</string>
+</resources>
